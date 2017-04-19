@@ -14,5 +14,8 @@
   "rules": {
     "no-unexpected-multiline": 2,
     "compat/compat": 2
+  },
+  "settings": {
+    "polyfills": ["fetch"]
   }
 }
